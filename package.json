@@ -1,0 +1,15 @@
+{
+  "name": "mummy-git",
+  "displayName": "Mummy Git",
+  "description": "This is opensource extension to simplify the git actions to new developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
